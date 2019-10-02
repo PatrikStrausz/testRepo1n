@@ -5,6 +5,11 @@ import sk.itsovy.strausz.other.FreeClass;
 public class Main {
 
 
+	//
+	// CHANGE !!!
+	//
+
+
     public static void main(String[] args) {
         Person person1;
         person1 = new Person();
